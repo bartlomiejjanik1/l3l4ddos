@@ -1,2 +1,5 @@
 # l3l4ddos
-L3 and L4 scripts based on hping3
+ attack_menu.sh: provides menu driven L3/4 attacks.
+ 
+ usage: 
+ ./attack_menu.sh <IP> <PORT>
